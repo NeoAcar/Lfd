@@ -1,0 +1,22 @@
+# Klasörleri dışla
+data/
+output/
+.venv/
+
+# Jupyter checkpointlerini dışla
+.ipynb_checkpoints/
+
+# Python önbellekleri
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sistem dosyaları
+.DS_Store
+
+# Ortam dosyaları
+.env
+
+# Arşivler
+*.z*
